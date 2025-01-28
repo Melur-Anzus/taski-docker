@@ -12,9 +12,8 @@ ALLOWED_HOSTS = [
     '123.123.123.123',
     'localhost',
     '127.0.0.1',
-    'https://dzen4life.bounceme.net/',
+    'dzen4life.bounceme.net',
 ]
-
 
 # Application definition
 
